@@ -9,3 +9,4 @@ Your manager is particularly interested in understanding any changes in revenue 
 
 {Project Alomst done} Need to change the months and run the dataset with new values to test the Workflow.
 Documentation will be shortely provided.
+Reporting data need to be improved. I will also try to connect the output to power BI for reporting other than Alteryx reporting.
